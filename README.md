@@ -4,6 +4,7 @@
 
 ### Что использовал при вёрстке сайта визитки(партфолио) [Сергея Журавлёва](https://shassdooit.github.io/Business-card-site/)
 
+- Pixel Perfect
 - Методология [БЭМ](https://ru.bem.info/methodology/)
 - Классический CSS без препроцессоров
 - Библиотека: [GreenSock](https://greensock.com/) использован метод reverse() для закрытия бургер-меню, и более плавной анимации 
